@@ -1,6 +1,6 @@
 # The Larger the Better? Improved LLM Code-Generation via Budget Reallocation
 
-This is the official repository of the COLM 2024 paper: [The Larger the Better? Improved LLM Code-Generation via Budget Reallocation](https://arxiv.org/abs/2404.00725) by Michael Hassid*, Tal Remez*, , Jonas Gehring, Roy Schwartz and Yossi Adi.
+This is the official repository of the COLM 2024 paper: [The Larger the Better? Improved LLM Code-Generation via Budget Reallocation](https://arxiv.org/abs/2404.00725) by Michael Hassid*, Tal Remez*, Jonas Gehring, Roy Schwartz and Yossi Adi.
 
 <p align="center">
   <img src="fig_1.png" width="50%" height="50%">
