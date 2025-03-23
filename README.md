@@ -43,7 +43,7 @@ def rank_score_at_k(n, k, pass_sorted):
     """
     numerator_sum = 0
     for i in range(1, n-k+2):
-        numerator_sum += math.comb(n-i, k-1) * scores_and_pass[i-1]
+        numerator_sum += math.comb(n-i, k-1) * pass_sorted[i-1]
     score = (numerator_sum / math.comb(n, k)) * 100
     return score
 ```
