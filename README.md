@@ -54,7 +54,7 @@ def rank_score_at_k(n, k, pass_sorted):
   title={The Larger the Better? Improved LLM Code-Generation via Budget Reallocation},
   author={Hassid, Michael and Remez, Tal and Gehring, Jonas and Schwartz, Roy and Adi, Yossi},
   journal={arXiv preprint arXiv:2404.00725},
-  volume={arXiv:2404.00725}
+  volume={arXiv:2404.00725},
   url={http://arxiv.org/abs/2404.00725},
   year={2024}
 }
